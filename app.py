@@ -100,7 +100,7 @@ if selected == "Beranda":
             <strong>Generative Adversarial Networks (GANs)</strong> adalah kelas model pembelajaran mesin yang digunakan untuk menghasilkan data baru yang serupa dengan data yang ada. GAN terdiri dari dua jaringan saraf yang saling bersaing satu sama lain: Generator, yang mencoba membuat data palsu yang tampak nyata, dan Discriminator, yang mencoba membedakan antara data nyata dan data palsu. Melalui proses pelatihan, Generator belajar membuat data yang semakin sulit dibedakan oleh Discriminator.
         </p>
         <p>
-            Anda dapat melihat kode proyek lengkap di <a href="https://github.com/username/repo">GitHub</a> dan dataset yang digunakan dapat diunduh dari <a href="https://mega.nz/file/HslSXS4a#7UBanJTjJqUl_2Z-JmAsreQYiJUKC-8UlZDR0rUsarw">sini</a>. Anda juga bisa mencoba menghasilkan gambar dengan mengunggah gambar ke dalam kolom yang disediakan ini:
+            Anda dapat melihat kode proyek lengkap di <a href="https://github.com/NabilaPutriNurhaliza/Streamlit_GAN">GitHub</a> dan dataset yang digunakan dapat diunduh dari <a href="https://mega.nz/file/HslSXS4a#7UBanJTjJqUl_2Z-JmAsreQYiJUKC-8UlZDR0rUsarw">sini</a>. Anda juga bisa mencoba menghasilkan gambar dengan mengunggah gambar ke dalam kolom yang disediakan ini:
         </p>
         </p>
     </div>
