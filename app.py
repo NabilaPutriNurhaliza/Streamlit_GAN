@@ -19,7 +19,7 @@ st.set_page_config(page_title="GAN Image Generator", layout="wide")
 # Load model
 @st.cache_resource
 def load_generator_model():
-    return tf.keras.models.load_model("C:\\Users\\ASUS\\Desktop\\Streamlitwebgan\\checkponts\\generator_model.h5")
+    return tf.keras.models.load_model("checkponts/generator_model.h5")
 
 generator = load_generator_model()
 
